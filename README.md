@@ -10,4 +10,4 @@
 
 [PA4. **Hardware Trojan Detection**](./PA4_Hardware_Trojan_Detection) - 
 
-[Final Project. **(您的最終專案標題)**](https://youtu.be/Fec11u-RkQ0) - (在這裡填入 Final Project 的描述)
+[Final Project. **(您的最終專案標題)**](https://youtu.be/Fec11u-RkQ0) - Implemented a program to read a gate-level netlist and convert it into a functionally equivalent RTL (Verilog) module with optimized operator cost. This project uses the CUDD library to convert the netlist into an ROBDD (Reduced Ordered Binary Decision Diagram). By creating a library of combinational circuits, it scans and matches circuit blocks to iteratively extract high-level arithmetic operations, ultimately completing the circuit mapping and calculating the cost.
