@@ -1,6 +1,6 @@
 # CAD_VLSI_Design-EDA-
 
-(您可以在這裡放上課程名稱或簡短描述，例如 "112-2 CAD for VLSI design")
+
 
 [PA1. **Benchmark_Translator**](./PA1_Benchmark_Translator) - Implemented a program that reads ISCAS’85 netlist descriptions and converts them into the corresponding gate-level Verilog format.
 
