@@ -8,6 +8,6 @@
 
 [PA3. **Partition**](./PA3_partition) - Implemented the Simulated Annealing (SA) algorithm to solve the two-way min-cut partitioning problem.
 
-[PA4. **Hardware Trojan Detection**](./PA4_Hardware_Trojan_Detection) - (在這裡填入 PA4 的描述)
+[PA4. **Hardware Trojan Detection**](./PA4_Hardware_Trojan_Detection) - Implemented the Fiduccia-Mattheyses (FM) algorithm for two-way min-cut partitioning. This solution uses a SortedBucketList data structure to efficiently manage and select nodes based on the highest gain. The algorithm iteratively moves nodes, updates neighbor gains, and runs multiple trials to find the optimal minCutSize.
 
 [Final Project. **(您的最終專案標題)**](https://youtu.be/Fec11u-RkQ0) - (在這裡填入 Final Project 的描述)
